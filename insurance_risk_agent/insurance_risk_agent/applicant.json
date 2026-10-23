@@ -1,0 +1,13 @@
+{
+  "name": "Test User",
+  "age": 45,
+  "policy_type": "health",
+  "coverage_amount": 150000,
+  "annual_income": 70000,
+  "smoker": true,
+  "bmi": 31.5,
+  "chronic_conditions": 1,
+  "claims_last_5y": 1,
+  "occupation_hazard": 2,
+  "late_payments": 0
+}
